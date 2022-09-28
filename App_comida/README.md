@@ -1,5 +1,5 @@
 ## App_comida
-Interface de um aplicativo fictício de comida.
+Interface de um aplicativo fictício de delivery de comida.
 
 ### Wireframe:
 ![WIREFRAME-APP-COMIDA](https://user-images.githubusercontent.com/95611970/192712690-2f84fa78-ca21-4c67-aecc-11c2e2422b0e.png)
