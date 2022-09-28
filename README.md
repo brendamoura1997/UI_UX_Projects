@@ -1,5 +1,5 @@
 ### UI_UX_Projects
-Este repositório tem como objetivo armazenar repositórios voltados ao estudo de UX e UI utilizando a ferramenta Figma
+Este repositório tem como objetivo armazenar projetos voltados ao estudo de UX e UI utilizando a ferramenta Figma.
 
 ## Explicação geral
 O repositório App_comida contém o Wireframe e o Protótipo visual da aplicação. O Wireframe demonstra os componentes que a aplicação terá, 
