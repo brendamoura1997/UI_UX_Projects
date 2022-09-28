@@ -6,7 +6,7 @@ O repositório App_comida contém o Wireframe e o Protótipo visual da aplicaç�
 enquanto o Protótipo trata-se do design final do produto. Cada pasta contém seus respectivos arquivos .fig.
 
 ## App_comida
-Interface de um aplicativo fictício de comida.
+Interface de um aplicativo fictício de delivery.
 
 ### Wireframe:
 ![WIREFRAME-APP-COMIDA](https://user-images.githubusercontent.com/95611970/192712690-2f84fa78-ca21-4c67-aecc-11c2e2422b0e.png)
