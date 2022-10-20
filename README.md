@@ -3,7 +3,7 @@ Este repositório tem como objetivo armazenar projetos voltados ao estudo de UX 
 
 ## Explicação geral
 O repositório App_comida contém o Wireframe e o Protótipo visual da aplicação. O Wireframe demonstra os componentes que a aplicação terá, 
-enquanto o Protótipo trata-se do design final do produto. Cada pasta contém seus respectivos arquivos .fig.
+enquanto o Protótipo trata-se do design final do produto. Cada pasta contém seus respectivos arquivos .fig. OLÁ MUNDO
 
 ## App_comida
 Interface de um aplicativo fictício de delivery.
